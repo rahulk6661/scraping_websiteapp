@@ -1,3 +1,6 @@
 Flask
 requests
-BeautifulSoup
+BeautifulSoup4
+pandas
+guicorn
+google-api-python-client
